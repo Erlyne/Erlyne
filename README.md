@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lina</h1>
 <h3 align="center">A beginner self-taught front-end developper</h3>
 
+- :bowtie: I am a first year CS student
 - 🌱 I’m currently learning **JavaScript**
-- :yum: **I have a lot of fun reading urban legends and creepypastas and drawing ugly doodles**
+- :yum: I have a lot of fun reading **urban legends and creepypastas, listening to vocaloids, drawing ugly doodles...
 - :grimacing: That's all I can say for now lol
 
 <h3 align="left">Connect with me:</h3>
