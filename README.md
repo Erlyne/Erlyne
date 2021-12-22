@@ -2,12 +2,8 @@
 <h3 align="center">A beginner self-taught front-end developper</h3>
 
 - 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **html and skincare**
-
-- 📫 How to reach me **linaayaden04@gmail.com**
-
-- ⚡ Fun fact **I have a lot of fun reading urban legends,creepypastas, conspiracy theories, listening to lofi hip hop, vocaloids and drawing ugly doodles**
+- 
+- :ghost: **I have a lot of fun reading urban legends and creepypastas and drawing ugly doodles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
