@@ -3,7 +3,6 @@
 
 - :bowtie: I am a first year CS student
 - 🌱 I’m currently learning **JavaScript**
-- :yum: I have a lot of fun reading urban legends and creepypastas, listening to vocaloids, drawing ugly doodles...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
